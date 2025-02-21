@@ -4,5 +4,5 @@ I am currently a junior BAIS major at Tippie College of Business at the Universi
 ## <ins> Project Title </ins>
 *Hello world sample*
 
-## Additional Documentation
+### Additional Documentation
 **None**
