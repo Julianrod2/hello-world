@@ -5,4 +5,4 @@ I am currently a junior BAIS major at Tippie College of Business at the Universi
 *Hello world sample*
 
 ## Additional Documentation
-** None **
+**None**
